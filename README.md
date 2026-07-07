@@ -1,2 +1,49 @@
-# 95ba6411-animation-motion-graphics-fo
-The fastest way to have the information you need right in your browser. No setup fees. No learning curve.  Privacy-first: all processing stays local, no data sent to third-party servers. Works directly in Chrome, Edge, and Brave — no switching apps required.  ## What's Included  - Animation &amp; Motion Graphics Form Auto-Filler And Data Entry Accelera
+# Animation & Motion Graphics Form Auto-Filler and Data Entry Accelerator Chrome Extension
+
+> Extension for Animation Motion
+
+The fastest way to have the information you need right in your browser. No setup fees. No learning curve.
+
+Privacy-first: all processing stays local, no data sent to third-party servers. Works directly in Chrome, Edge, and Brave — no switching apps required.
+
+## What's Included
+
+- Animation & Motion Graphics Form Auto-Filler And Data Entry...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Core features | ✅ | ✅ |
+| Community support | ✅ | ✅ |
+| Basic configuration | ✅ | ✅ |
+| Advanced automation | ❌ | ✅ |
+| Priority support | ❌ | ✅ |
+| Custom configurations | ❌ | ✅ |
+| Auto-updates | ❌ | ✅ |
+| Premium integrations | ❌ | ✅ |
+| Unlimited usage | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy on Gumroad](https://propathacademy.gumroad.com/l/vjhzy)** — Instant download, lifetime updates
+
+**[Buy Now (Stripe)](https://buy.stripe.com/7sY5kDdPp0bW4pq5bucZG3h)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+- Pro customers get priority support via the [purchase platform](https://propathacademy.gumroad.com/l/vjhzy)
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
